@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Study.iml" filepath="$PROJECT_DIR$/.idea/Java_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListLab/LinkedListLab.iml" filepath="$PROJECT_DIR$/LinkedListLab/LinkedListLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search_Engine_Lab/Search_Engine_Lab.iml" filepath="$PROJECT_DIR$/Search_Engine_Lab/Search_Engine_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text_Editor_Lab/Text_Editor_Lab.iml" filepath="$PROJECT_DIR$/Text_Editor_Lab/Text_Editor_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zoo_Solution/Zoo_Solution.iml" filepath="$PROJECT_DIR$/Zoo_Solution/Zoo_Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-pushing-and-popping/arrays-pushing-and-popping.iml" filepath="$PROJECT_DIR$/arrays-pushing-and-popping/arrays-pushing-and-popping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-list-pushing-and-popping/linked-list-pushing-and-popping.iml" filepath="$PROJECT_DIR$/linked-list-pushing-and-popping/linked-list-pushing-and-popping.iml" />
+    </modules>
+  </component>
+</project>
